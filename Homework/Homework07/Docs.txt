@@ -1,0 +1,4 @@
+Cài đặt các thuật toán tìm kiếm:
+- Tuyến tính / tuyến tính cải tiến (trên mảng và dslk đơn)
+- Nhị phân / Nội suy  (trên mảng)
+Lưu ý cài đặt tìm kiếm trên dslk cần code phần tạo dslk đơn trước InputList, PrintList

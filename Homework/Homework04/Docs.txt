@@ -1,0 +1,14 @@
+Cài đặt chương trình quản lý KHÁCH SẠN bằng danh sách liên kết đơn. Trong đó thông tin mỗi PHÒNG trong khách sạn gồm:
+THÔNG TIN PHÒNG KS
+	
+KIỂU DỮ LIỆU
+. Số phòng - int
+. Loại phòng (A : phòng đơn, B : phòng đôi) - char
+. Tình trạng (1: đã có khách, 0 : trống) - int
+
+Câu 1: Nhập danh sách gồm n PHÒNG khách sạn. (3 điểm)
+Câu 2: Xuất danh sách PHÒNG khách sạn. (1 điểm)
+Câu 3: Thống kê số lượng PHÒNG khách sạn theo tình trạng, loại phòng. (1 điểm)
+Câu 4: Tính doanh thu khách sạn trong 1 ngày dựa trên số phòng đã có khách. Biết đơn giá phòng loại A là 200đ/1 ngày, phòng loại B là 350đ/1 ngày. (1 điểm)
+Câu 5: Sắp xếp danh sách phòng khách sạn theo thứ tự tăng dần số phòng. (1 điểm)
+Câu 6: Xóa PHÒNG có số phòng = x (với x nhập từ bàn phím) (3 điểm)

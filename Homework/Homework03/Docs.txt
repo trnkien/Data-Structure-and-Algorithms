@@ -1,0 +1,29 @@
+Thực hiện các yêu cầu sau trên file cpp 
+
+**Lưu ý nộp file cpp và đặt tên file cpp là tên nhóm (ví dụ: Nhom01.cpp, Nhom02.cpp, ...)
+
+// khai báo cấu Node và List (+1 điểm)
+
+// Tạo node p có info = x --> CreateNode  (+1 điểm)
+
+// Khởi tạo list rỗng --> createEmptylist  (+1 điểm)
+
+// Thêm 1 node p vào đầu list --> AddHead  (+1 điểm)
+
+// Thêm 1 node p vào cuối list --> AddTail  (+1 điểm)
+
+// Thêm n node vào ds --> InputList  (+1 điểm)
+
+// Duyet ds --> PrintList  (+1 điểm)
+
+// Thêm node p vào sau node q --> AddAfterQ  (+1 điểm)
+
+// Tìm node trong dslk có info = x --> searchNode (+1 điểm)
+
+Chạy được hàm main  (+1 điểm)  gồm các thao tác
+
+- Tạo dslk đơn gồm n node
+
+- Duyệt dslk đơn
+
+- Tìm kiếm node trong dslk đơn
